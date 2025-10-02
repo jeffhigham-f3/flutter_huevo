@@ -1,8 +1,4 @@
-# Flutter Huevo
-
-🥚 welcome to Flutter Huevo.
-
-Watch/star this repo to be notified when updates are pushed.
+# 🥚 Flutter Huevo
 
 ## Table of Contents
 
