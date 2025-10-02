@@ -10,7 +10,6 @@ Watch/star this repo to be notified when updates are pushed.
 * [Flutter Huevo](#your-project-id-pro)
   * [Table of Contents](#table-of-contents)
   * [What is Flutter Huevo?](#what-is-your-project-id)
-  * [About the Author](#about-the-author)
   * [Get Started](#get-started)
     * [Option 1 - Template](#option-1---template)
     * [Option 2 - Fork](#option-2---fork)
@@ -30,13 +29,7 @@ Watch/star this repo to be notified when updates are pushed.
   * [Localization](#localization)
   * [Android Release Signing](#android-release-signing)
   * [Useful GitHub Pull Request Settings](#useful-github-pull-request-settings)
-* [FAQ](#faq)
-  * [Why bloc and not X?](#why-bloc-and-not-x)
-  * [Where to learn Flutter basics?](#where-to-learn-flutter-basics)
-  * [What if I don't need a specific feature?](#what-if-i-dont-need-a-specific-feature)
-  * [Help: Login stuck on loading overlay](#help-login-stuck-on-loading-overlay)
-* [Resources](#resources)
-* [Support](#support)
+
 <!-- TOC -->
 
 ## What is Flutter Huevo?
